@@ -1,9 +1,12 @@
 <template>
-  <div></div>
+  <div>
+     OLA
+  </div>  
 </template>
 
-<script>
-export default {
+<script> 
+
+export default {  
   mounted() {
     this.openPdf()
   },
